@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ApplicationLoopback.cpp">
+    <ClCompile Include="AppRipper.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="LoopbackCapture.cpp">
+    <ClCompile Include="AudioCapture.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="LoopbackCapture.h">
+    <ClInclude Include="AudioCapture.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Common.h">

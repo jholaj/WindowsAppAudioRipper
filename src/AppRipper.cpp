@@ -1,9 +1,9 @@
-// ApplicationLoopback.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// AppRipper.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
 #include <Windows.h>
-#include "LoopbackCapture.h"
+#include "AudioCapture.h"
 
 void usage()
 {

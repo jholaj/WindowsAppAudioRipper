@@ -3,7 +3,7 @@
 #include <iostream>
 #include <audioclientactivationparams.h>
 
-#include "LoopbackCapture.h"
+#include "AudioCapture.h"
 
 #define BITS_PER_BYTE 8
 
