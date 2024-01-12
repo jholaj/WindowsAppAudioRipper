@@ -5,3 +5,4 @@
 - Example:
     - AppRipper.exe 123456 Output.wav
 -  Requires Windows 10 build 20348 or later!
+- Edited sample app from this [repo](https://github.com/microsoft/Windows-classic-samples)
