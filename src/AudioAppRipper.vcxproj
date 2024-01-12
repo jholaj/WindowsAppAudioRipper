@@ -147,7 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="AppRipper.cpp" />
+    <ClCompile Include="AudioAppRipper.cpp" />
     <ClCompile Include="AudioCapture.cpp" />
   </ItemGroup>
   <ItemGroup>
