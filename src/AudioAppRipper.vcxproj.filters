@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AppRipper.cpp">
+    <ClCompile Include="AudioAppRipper.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="AudioCapture.cpp">
