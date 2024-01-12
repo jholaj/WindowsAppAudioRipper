@@ -1,4 +1,4 @@
-// AppRipper.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// AudioAppRipper.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
@@ -15,9 +15,9 @@ void usage()
         L"\n"
         L"Examples:\n"
         L"\n"
-        L"ApplicationLoopback.exe 1234 CapturedAudio.wav\n"
+        L"AudioAppRipper.exe 123456 Output.wav\n"
         L"\n"
-        L"Captures audio from process 1234 and its children.\n";
+        L"Captures audio from process 123456 and its children to Output.wav file.\n";
 }
 
 CLoopbackCapture loopbackCapture;
