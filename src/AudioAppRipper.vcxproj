@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{6e745655-513e-4713-b3ab-d6d3f62d7734}</ProjectGuid>
-    <RootNamespace>ApplicationLoopback</RootNamespace>
+    <RootNamespace>AudioAppRipper</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>AppRipper</ProjectName>
   </PropertyGroup>
