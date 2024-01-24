@@ -8,7 +8,7 @@
 void usage()
 {
     std::wcout <<
-        L"Usage: ApplicationLoopback <pid> <outputfilename>\n"
+        L"Usage: AudioAppRipper.exe <pid> <outputfilename>\n"
         L"\n"
         L"<pid> is the process ID to capture or exclude from capture\n"
         L"<outputfilename> is the WAV file to receive the captured audio (until Ctrl+C is pressed)\n"
